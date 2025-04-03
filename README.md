@@ -8,8 +8,8 @@ This project demonstrates image classification using a Convolutional Neural Netw
 - **Dataset**: CIFAR-10 (60,000 images, 10 classes)  
 - **Model**: CNN with 3 convolutional layers and data augmentation  
 - **Performance**:  
-  - Test Accuracy: ~54.5% after 5 epochs  
-  - Test Loss: ~1.33
+ Test Loss: 1.3375
+ Test Accuracy: 0.5448
 
 ## Sample Output
 
