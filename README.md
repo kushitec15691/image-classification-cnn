@@ -26,7 +26,7 @@ plt.savefig("samples.png")
 
 ```python
 # Add this to your script to save the training plot:
-plt.savefig("accuracy.png")
+plt.savefig("https://github.com/kushitec15691/image-classification-cnn/blob/main/samples.png")
 ```
 
 ## Features
